@@ -1,0 +1,3 @@
+ID: 101 | Nombre: Juan Pérez | Edad: 20 | Ciudad: Madrid
+ID: 104 | Nombre: Laura Fernández | Edad: 30 | Ciudad: Madrid
+ID: 105 | Nombre: Marta Gómez | Edad: 22 | Ciudad: Barcelona

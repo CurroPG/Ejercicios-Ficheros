@@ -1,0 +1,5 @@
+ID: 101 | Nombre: Juan Pérez | Edad: 20 | Ciudad: Madrid
+ID: 102 | Nombre: Ana García | Edad: 17 | Ciudad: Barcelona
+ID: 103 | Nombre: Pedro López | Edad: 25 | Ciudad: Valencia
+ID: 104 | Nombre: Laura Fernández | Edad: 30 | Ciudad: Madrid
+ID: 105 | Nombre: Marta Gómez | Edad: 22 | Ciudad: Barcelona
